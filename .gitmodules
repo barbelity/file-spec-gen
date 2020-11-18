@@ -1,0 +1,3 @@
+[submodule "commands/maven-demo"]
+	path = commands/maven-demo
+	url = https://github.com/barbelity/maven-demo.git
